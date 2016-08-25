@@ -1,0 +1,3 @@
+name: ${name}
+main: com.github.mdsimmo.hitchanywhere.HitchAnywhere
+version: ${version}
